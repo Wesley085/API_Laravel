@@ -8,7 +8,6 @@
 Duplicar o arquivo ".env.example" e renomear para ".env".<br>
 Alterar no arquivo .env as credenciais do banco de dados.<br>
 Alterar no arquivo .env as credenciais do o servidor de e-mail.<br>
-Servidor Iagente: https://www.iagente.com.br/solicitacao-conta-smtp/origin/celke<br>
 
 Instalar as dependências do PHP
 ```
